@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://vanelle-relance.github.io/sitemap.xml
